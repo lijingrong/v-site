@@ -27,3 +27,27 @@
 .list code {
   background: #f7f7f7;
 }
+
+.logo {
+  width: 120px;
+  height: 31px;
+  background: #333;
+  border-radius: 6px;
+  margin: 16px 24px 16px 0;
+  float: left;
+}
+
+.cat1 {
+  width: 100%;
+  background: url("../assets/cat01.jpg") no-repeat;
+}
+
+.cat2 {
+  width: 100%;
+  background: url("../assets/cat02.jpg") no-repeat;
+}
+
+.gutter_row {
+  background: #00A0E9;
+  height: 200px;
+}
